@@ -11,6 +11,7 @@ Fitur List :
 2.  Pencarian Projek DIY (Instruksi Lakukan Sendiri)
 3.  Manajemen Projek DIY (Instruksi Lakukan Sendiri) (CRUD)
 4.  Infinite Scroll
+5.  Sistem Komentar
 5.  dll ( di explore sendiri)
 
 
